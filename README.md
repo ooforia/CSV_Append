@@ -17,4 +17,4 @@ pip install pandas
 
 -Run script
 
--After the script is ran, CSV file named OUTPUT will be created in the same directory with CSV_Append.py
+-After the script is run, CSV file named OUTPUT will be created in the same directory with CSV_Append.py
