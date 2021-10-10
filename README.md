@@ -6,14 +6,12 @@ Example:
 First CSV columns  (Last Name, first name, DOB, Address)
 Second CSV columns (last name, first name, DOB, Address)
 
-```
-Last Name	first name	 DOB	    Address	    last name
-smith	    john	     1/1/2000	123 main	
-martin		             1/2/2001	456 main	
-mary	                 2/2/2003	789 valley	jane
-peter	                 5/6/1998	135 NY	    parker
-
-```
+| Last Name | first name | DOB      | Address    | last name |
+|-----------|------------|----------|------------|-----------|
+| smith     | john       | 1/1/2000 | 123 main   |           |
+| martin    |            | 1/2/2001 | 456 main   |           |
+|           | mary       | 2/2/2003 | 789 valley | jane      |
+|           | peter      | 5/6/1998 | 135 NY     | parker    |
 
 ## Installation
 
