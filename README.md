@@ -2,9 +2,10 @@
 This script will append multiple CSV files that have similar case sensitive column headers.
 CSV files with different columns headers will be appended at the end (See example).
 
-Example: 
-First CSV columns  (Last Name, first name, DOB, Address)
-Second CSV columns (last name, first name, DOB, Address)
+## Example: 
+First CSV columns: (Last Name, first name, DOB, Address)
+
+Second CSV columns: (last name, first name, DOB, Address)
 
 | Last Name | first name | DOB      | Address    | last name |
 |-----------|------------|----------|------------|-----------|
