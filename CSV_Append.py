@@ -27,7 +27,7 @@ df = pd.concat(li, axis=0, ignore_index=True)
 df = df.astype(object).where(pd.notnull(df),None)
 
 #export df into csv, removes index columns in CSV
-#df.to_csv('D:\Python Projects\CSV_Append\OUTPUT.csv', index=False)
+df.to_csv('D:\Python Projects\CSV_Append\OUTPUT.csv', index=False)
 print("------------------------------------")
 print(f"Created csv with shape: {df.shape}")
 
