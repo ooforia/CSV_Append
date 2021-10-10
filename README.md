@@ -20,7 +20,7 @@ pip install pandas
 -After the script is run, CSV file named OUTPUT will be created in the same directory with CSV_Append.py
 
 ## Example 1 (CSV files with same column headers: 
-First CSV columns: (last Name, first name, DOB, Address)
+First CSV columns: (last name, first name, DOB, Address)
 
 Second CSV columns: (last name, first name, DOB, Address)
 
