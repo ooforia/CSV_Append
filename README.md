@@ -46,3 +46,6 @@ Appended CSV
 | martin    |            | 1/2/2001 | 456 main   |           |
 |           | mary       | 2/2/2003 | 789 valley | jane      |
 |           | peter      | 5/6/1998 | 135 NY     | parker    |
+
+## License
+[MIT](https://github.com/ooforia/CSV_Append/blob/main/LICENSE)
